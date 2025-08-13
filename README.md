@@ -1,12 +1,38 @@
 # React + Vite
+1.Description
+2.Fonctionnalités
+3.Technologies
+4.Installation
+5.Usage
+6.Licence
+7.Contact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Description
+ - Mon application est le portfoliio d'un individu afin de voir quels projets et quelles aptitudes cette personne a.
 
-Currently, two official plugins are available:
+2. Fonctionnalités
+ - Présentation des ses projets avec descriptions et liens vers le code source
+ - Section "À propos" avec son parcours scolaire et ses compétences
+ - Formulaire de contact fonctionnel
+ - Navigation simple et intuitive
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Technologies
+ - HTML, CSS, JS, React, tailwind
+ - Outils : Git, GitHub
 
-## Expanding the ESLint configuration
+4. Installation
+ - Prérequis
+  * Node.js >= 18
+  * npm
+  * git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+5. Usage
+ - Ouvrir le navigateur
+
+6. Licence
+ - Ce projet est sous licence MIT - voir le fichier LICENCE pour plus de détails.
+
+7. Contact
+ - Nom : Doe
+ - adresse mail : john.doe@gmail.com
